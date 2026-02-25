@@ -1,4 +1,3 @@
-// src/data/projectsData.js
 export const projects = [
   {
     id: 1,
@@ -11,7 +10,7 @@ export const projects = [
       { name: "P2P", color: "emerald" },
     ],
     demoUrl: "https://trivorachat.vercel.app",
-    githubUrl: "#",
+    githubUrl: "https://github.com/shekhmohibur/trivora-client",
     accent: "emerald",
     aos: "fade-right",
   },
@@ -25,8 +24,8 @@ export const projects = [
       { name: "React", color: "cyan" },
       { name: "Motion", color: "cyan" },
     ],
-    demoUrl: "https://example.com",
-    githubUrl: "#",
+    demoUrl: "https://smrxv2.vercel.app",
+    githubUrl: "https://github.com/shekhmohibur/smrxv2",
     accent: "cyan",
     aos: "fade-left",
   },
