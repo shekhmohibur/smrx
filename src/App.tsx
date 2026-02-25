@@ -457,12 +457,12 @@ const handleContactSubmit = async (e) => {
               { name: 'MongoDB', icon: <Layers /> },
               { name: 'Tailwind', icon: <Cpu /> },
               { name: 'Framer Motion', icon: <Cpu /> },
-              { name: 'TypeScript', icon: <Code2 /> },
+              // { name: 'TypeScript', icon: <Code2 /> },
               { name: 'Vite', icon: <Terminal /> },
               { name: 'Git', icon: <Github /> },
               { name: 'DaisyUI', icon: <Layers /> },
               { name: 'Animate.css', icon: <Cpu /> },
-              { name: 'Redux', icon: <Layers /> },
+              // { name: 'Redux', icon: <Layers /> },
             ].map((skill, i) => (
               <motion.div
                 key={skill.name}
