@@ -37,7 +37,7 @@ export const projects = [
     image: "https://www.investopedia.com/thmb/qjvStnA5-Vv9aAHeobKApiS6IS4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1783866205-1ba1e27b9b6a4c1d9f4afafc9c335e1f.jpg?grayscale",
     tags: [
       { name: "React", color: "emerald" },
-      { name: "Auth", color: "amber-200" },
+      { name: "Auth", color: "amber" },
     ],
     demoUrl: "https://credlance.vercel.app/",
     githubUrl: "https://github.com/shekhmohibur/CredLance",
