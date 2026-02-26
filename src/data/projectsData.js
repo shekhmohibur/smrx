@@ -44,4 +44,20 @@ export const projects = [
     accent: "emerald",
     aos: "fade-left",
   },
+  {
+  id: 4,
+  title: "CareerCode",
+  description: "A comprehensive job portal platform for job seekers and employers to connect, post jobs, apply, and manage applications.",
+  image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=750&h=500&fit=crop",
+  tags: [
+    { name: "React", color: "blue" },
+    { name: "Firebase", color: "orange" },
+    { name: "Tailwind CSS", color: "cyan" },
+    { name: "Vite", color: "purple" },
+  ],
+  demoUrl: "https://careercodev1.vercel.app", 
+  githubUrl: "https://github.com/shekhmohibur/career-code-client",
+  accent: "violet",
+  aos: "fade-up",
+}
 ];
