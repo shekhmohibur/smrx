@@ -392,7 +392,7 @@ export default function App() {
               </a>
               <a
                 href="#contact"
-                className="px-8 py-3 glass font-bold rounded-full hover:bg-black/5 dark:hover:bg-white/5 transition-all hover:scale-105 active:scale-95"
+                className="px-8 py-3 glass font-bold  rounded-full hover:bg-black/5 dark:hover:bg-white/5 transition-all hover:scale-105 active:scale-95"
               >
                 Let's Talk
               </a>
