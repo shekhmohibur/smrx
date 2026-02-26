@@ -1,0 +1,12 @@
+export { ThemeSwitcher } from "./ThemeSwitcher";
+export { Navbar } from "./Navbar";
+export { SectionHeading } from "./SectionHeading";
+export { LivePreviewModal } from "./LivePreviewModal";
+export { HeroSection } from "./HeroSection";
+export { AboutSection } from "./AboutSection";
+export { VideoResumeSection } from "./VideoResumeSection";
+export { SkillsSection } from "./SkillsSection";
+export { ProjectsSection } from "./ProjectsSection";
+export { GitHubSection } from "./GitHubSection";
+export { ContactSection } from "./ContactSection";
+export { Footer } from "./Footer";
