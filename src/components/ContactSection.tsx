@@ -43,11 +43,21 @@ export const ContactSection = () => {
 
       alert("Message sent successfully!");
 
+      // send optional Google Ads conversion event if you have an Ads conversion ID
+      if ((window as any).gtag && process.env.NODE_ENV === "production") {
+        // replace with your own send_to value from Google Ads (e.g. "AW‑XXXXXXXXX/abcdefg")
+        (window as any).gtag("event", "conversion", {
+          send_to: "AW-CONVERSION_ID/PAGE_LABEL",
+        });
+      }
+
+      // reset form and redirect to a thank‑you page so you can use the URL in Google Ads
       setContactForm({
         name: "",
         email: "",
         message: "",
       });
+      window.location.href = "/thank-you.html";
     } catch (error) {
       console.error("EmailJS error:", error);
       trackEvent("contact_form_error", {

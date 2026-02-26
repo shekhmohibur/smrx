@@ -37,6 +37,9 @@
 
 - [x] Google Analytics 4 setup scaffold
 - [x] Event tracking for contact form
+- [x] Redirect form to a dedicated thank-you page (public/thank-you.html)
+  - use this URL for Google Ads "purchase" conversion or
+  - call `trackGoogleAdsConversion` with the send_to value
 - [x] Hash navigation tracking (for SPA)
 - [x] Outbound link tracking capability
 - [x] Performance metrics collection

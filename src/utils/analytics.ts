@@ -70,3 +70,15 @@ export function trackFormSubmission(formName: string) {
     form_name: formName,
   });
 }
+
+// Google Ads conversions are measured either by visiting a specific URL or
+// by firing a dedicated `conversion` event. If you opt for the latter, you
+// can call this helper with the "send_to" string provided by Ads when you
+// create a conversion action (e.g. "AW-123456789/AbCdEfg").
+export function trackGoogleAdsConversion(sendTo: string) {
+  if ((window as any).gtag) {
+    (window as any).gtag("event", "conversion", {
+      send_to: sendTo,
+    });
+  }
+}

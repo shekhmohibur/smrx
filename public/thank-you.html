@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Thank You - Shekh Mohibur Rahman</title>
+    <!-- Custom styling matching portfolio theme -->
+    <style>
+      :root {
+        --bg: #111827;
+        --card-bg: rgba(31, 41, 55, 0.6);
+        --accent: #14b8a6;
+        --text-light: #e5e7eb;
+        --text-medium: #9ca3af;
+        --text-dark: #1f2937;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        font-family: system-ui, sans-serif;
+        background: var(--bg);
+        color: white;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+      header {
+        padding: 1rem 1.5rem;
+        background: rgba(31, 41, 55, 0.5);
+        backdrop-filter: blur(8px);
+      }
+      header .container {
+        max-width: 1280px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      header a {
+        color: var(--text-light);
+        text-decoration: none;
+      }
+      header a.brand {
+        font-weight: bold;
+        font-size: 1.25rem;
+        color: var(--accent);
+      }
+      header a.navlink:hover {
+        color: var(--accent);
+      }
+      main {
+        flex: 1 1 auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 1.5rem;
+      }
+      .card {
+        background: var(--card-bg);
+        backdrop-filter: blur(8px);
+        padding: 3rem;
+        border-radius: 2rem;
+        max-width: 28rem;
+        text-align: center;
+      }
+      .card h1 {
+        font-size: 2rem;
+        font-weight: 700;
+        margin-bottom: 1rem;
+      }
+      .card p {
+        margin-bottom: 1.5rem;
+        color: var(--text-medium);
+      }
+      .btn {
+        display: inline-block;
+        padding: 0.75rem 1.5rem;
+        background: var(--accent);
+        color: var(--text-dark);
+        font-weight: 600;
+        border-radius: 9999px;
+        text-decoration: none;
+        transition: background 0.2s;
+      }
+      .btn:hover {
+        background: #0d9488;
+      }
+      footer {
+        padding: 1rem;
+        text-align: center;
+        color: var(--text-medium);
+        font-size: 0.875rem;
+      }
+    </style>
+
+    <!-- Google Analytics / Ads snippet: duplicate from index.html so tracking still works -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-83XWKZH0QC"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-83XWKZH0QC", {
+        send_page_view: true,
+        anonymize_ip: true,
+      });
+    </script>
+  </head>
+  <body>
+    <!-- simple header to mirror main site -->
+    <header>
+      <div class="container">
+        <a href="/" class="brand"> Shekh Mohibur Rahman </a>
+        <nav>
+          <a href="/" class="navlink">Home</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <div class="card">
+        <h1>Thank you for getting in touch!</h1>
+        <p>
+          Your message has been sent successfully. I'll be in touch as soon as
+          possible.
+        </p>
+        <a href="/" class="btn">Return to homepage</a>
+      </div>
+    </main>
+
+    <footer>&copy; 2026 Shekh Mohibur Rahman. All rights reserved.</footer>
+  </body>
+</html>
