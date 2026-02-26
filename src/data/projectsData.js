@@ -59,5 +59,22 @@ export const projects = [
   githubUrl: "https://github.com/shekhmohibur/career-code-client",
   accent: "violet",
   aos: "fade-up",
+},
+{
+  "id": 5,
+  "title": "ZapShift",
+  "description": "A modern ride-sharing and last-mile delivery platform connecting riders, merchants, and drivers for quick and reliable transportation services.",
+  "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=750&h=500&fit=crop",
+  "tags": [
+    { name: "React", color: "blue" },
+    { name: "Tailwind CSS", color: "cyan" },
+    { name: "Vite", color: "purple" },
+    { name: "React Router", color: "orange" },
+    { name: "DaisyUI", color: "pink" }
+  ],
+  "demoUrl": "https://zapshiftv1.vercel.app",
+  "githubUrl": "https://github.com/shekhmohibur/zap-shift-client",
+  "accent": "amber",
+  "aos": "fade-up"
 }
 ];
