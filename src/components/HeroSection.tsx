@@ -26,7 +26,7 @@ export const HeroSection = () => {
         </p>
         <div className="flex flex-wrap justify-center gap-4 pt-4">
           <a
-            href="https://shekhmohibur.dev/smr-cv.pdf"
+            href="https://mohibur.trivora.top/smr-cv.pdf"
             download="smr-cv.pdf"
             className="px-8 py-3 bg-emerald-500 text-neutral-950 font-bold rounded-full hover:bg-emerald-400 transition-all hover:scale-105 active:scale-95 shadow-lg shadow-emerald-500/20"
           >

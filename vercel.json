@@ -71,7 +71,7 @@
   "redirects": [
     {
       "source": "/resume",
-      "destination": "https://shekhmohibur.dev/smr-cv.pdf",
+      "destination": "https://mohibur.trivora.top/smr-cv.pdf",
       "permanent": true
     }
   ]

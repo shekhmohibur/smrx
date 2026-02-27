@@ -4,7 +4,7 @@
 
 # SMR — Portfolio
 
-Live site: https://shekhmohibur.dev/
+Live site: https://mohibur.trivora.top/
 
 Hi — I'm Shekh Mohibur Rahman. This repository contains my personal portfolio built with a modern frontend stack showcasing selected MERN projects, case studies, and contact links.
 

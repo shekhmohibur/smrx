@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <!-- Homepage -->
   <url>
-    <loc>https://shekhmohibur.dev/</loc>
+    <loc>https://mohibur.trivora.top/</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -15,42 +15,42 @@
 
   <!-- Section anchors for better indexing -->
   <url>
-    <loc>https://shekhmohibur.dev/#about</loc>
+    <loc>https://mohibur.trivora.top/#about</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://shekhmohibur.dev/#video-resume</loc>
+    <loc>https://mohibur.trivora.top/#video-resume</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://shekhmohibur.dev/#skills</loc>
+    <loc>https://mohibur.trivora.top/#skills</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://shekhmohibur.dev/#projects</loc>
+    <loc>https://mohibur.trivora.top/#projects</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>bi-weekly</changefreq>
     <priority>0.95</priority>
   </url>
 
   <url>
-    <loc>https://shekhmohibur.dev/#github</loc>
+    <loc>https://mohibur.trivora.top/#github</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://shekhmohibur.dev/#contact</loc>
+    <loc>https://mohibur.trivora.top/#contact</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
