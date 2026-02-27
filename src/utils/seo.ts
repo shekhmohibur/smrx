@@ -1,6 +1,6 @@
 export const SEO_CONFIG = {
   site: {
-    url: "https://smrx.vercel.app",
+    url: "https://shekhmohibur.dev",
     title: "Shekh Mohibur Rahman - MERN Stack Developer",
     description:
       "Frontend-focused MERN stack developer. Explore my portfolio featuring React, Node.js, Express, MongoDB projects. Available for new opportunities.",
@@ -31,9 +31,9 @@ export const SEO_CONFIG = {
   schemas: {
     person: {
       "@type": "Person",
-      "@id": "https://smrx.vercel.app/#person",
+      "@id": "https://shekhmohibur.dev/#person",
       name: "Shekh Mohibur Rahman",
-      url: "https://smrx.vercel.app/",
+      url: "https://shekhmohibur.dev/",
       jobTitle: "MERN Stack Developer",
       email: "mohibur.rahman2003@gmail.com",
       telephone: "+8801849314613",
@@ -42,7 +42,7 @@ export const SEO_CONFIG = {
     organization: {
       "@type": "Organization",
       name: "Shekh Mohibur Rahman",
-      url: "https://smrx.vercel.app/",
+      url: "https://shekhmohibur.dev/",
       logo: "https://avatars.githubusercontent.com/u/119482264?s=400",
       sameAs: [
         "https://github.com/shekhmohibur",

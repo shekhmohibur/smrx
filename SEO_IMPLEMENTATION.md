@@ -65,7 +65,7 @@ Implemented comprehensive JSON-LD schemas:
 
 1. Go to https://search.google.com/search-console
 2. Click "Add property"
-3. Enter: `https://smrx.vercel.app`
+3. Enter: `https://shekhmohibur.dev/`
 4. Verify ownership (DNS or HTML file method)
 5. Once verified, submit `sitemap.xml`
 
@@ -87,7 +87,7 @@ Implemented comprehensive JSON-LD schemas:
 
 In Google Search Console:
 
-1. Paste this URL: `https://smrx.vercel.app/`
+1. Paste this URL: `https://shekhmohibur.dev/`
 2. Click "Inspect URL"
 3. Click "Request Indexing"
 4. Repeat for key pages (add #projects, #about, etc.)

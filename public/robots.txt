@@ -16,5 +16,5 @@ Allow: /
 Crawl-delay: 1
 
 # Sitemap location
-Sitemap: https://smrx.vercel.app/sitemap.xml
-Sitemap: https://smrx.vercel.app/sitemap-projects.xml
+Sitemap: https://shekhmohibur.dev/sitemap.xml
+Sitemap: https://shekhmohibur.dev/sitemap-projects.xml

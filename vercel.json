@@ -71,7 +71,7 @@
   "redirects": [
     {
       "source": "/resume",
-      "destination": "https://smrx.vercel.app/smr-cv.pdf",
+      "destination": "https://shekhmohibur.dev/smr-cv.pdf",
       "permanent": true
     }
   ]

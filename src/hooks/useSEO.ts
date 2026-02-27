@@ -13,7 +13,7 @@ export function useMetaTags({
   title = "Shekh Mohibur Rahman - MERN Stack Developer",
   description = "Frontend-focused MERN stack developer. Explore my portfolio featuring React, Node.js, Express, MongoDB projects.",
   image = "https://avatars.githubusercontent.com/u/119482264?s=400",
-  url = "https://smrx.vercel.app",
+  url = "https://shekhmohibur.dev",
   type = "website",
   author = "Shekh Mohibur Rahman",
 }: MetaTagsProps) {

@@ -58,7 +58,7 @@
 ### 1. **Google Search Console** (PRIORITY 1)
 
 - [ ] Go to https://search.google.com/search-console
-- [ ] Add property: `https://smrx.vercel.app`
+- [ ] Add property: `https://shekhmohibur.dev/`
 - [ ] Verify ownership (Choose method: DNS or HTML file)
 - [ ] Once verified, submit sitemap.xml
 - [ ] Monitor crawl errors and search performance
@@ -111,7 +111,7 @@ Example alt text:
 
 In Google Search Console:
 
-- [ ] Inspect URL: https://smrx.vercel.app/
+- [ ] Inspect URL: https://shekhmohibur.dev/
 - [ ] Click "Request Indexing"
 - [ ] Wait for Google to process
 - [ ] Repeat for key sections (#projects, #about, #contact)

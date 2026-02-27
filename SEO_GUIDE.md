@@ -56,7 +56,7 @@
 ```bash
 # Add your domain in Google Search Console
 # 1. Go to https://search.google.com/search-console
-# 2. Add property "https://smrx.vercel.app"
+# 2. Add property "https://shekhmohibur.dev/"
 # 3. Verify ownership (DNS or HTML file)
 # 4. Submit sitemap.xml
 # 5. Request indexing for main pages
